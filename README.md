@@ -18,9 +18,11 @@ Some parts here are extras within the approved parts lists just in case I mess u
 - Seeed XIAO RP2040
 - 10 MX-Style Switches
 - 10 Blank DSA keycaps
+- 10 SK6812 MINI-E LEDs 
 - 6 M3x16mm screws
 - 6 M3x5mx4mm heatset inserts
+- 2 EC11 Rotary encoders 
 - 15 Through-hole 1N4148 Diodes
-- 1 0.91 inch OLED display 
-- 2 EC11 Rotary encoders (Extra parts so I can play around in the future:)
-- 10 SK6812 MINI-E LEDs 
+- 1 0.91 inch OLED display (Extra parts so I can play around in the future:)
+
+
