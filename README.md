@@ -1,15 +1,15 @@
 # Simple HackPad
-[MainPad image](./Images/MainPad.png)
+<img src="./Images/MainPad.png"></img>
 ## PCB
-[PCB image](./Images/PCB.png)
+<img src="./Images/PCB.png"></img>
 Here is my PCB, it consists of simple push down switches that can be soldered on
 
 ## Schematic
-[Schematic image](./Images/Schematic.png)
+<img src="./Images/Schematic.png"></img>
 This schematic is a basic diagram of my keypad, nothing too crazy
 
 ## The Legal Case in mind
-[Case image](./Images/Case.png)
+<img src="./Images/Case.png"></img>
 This case has room for a SEEED micronctroller, keycaps, and space for extra modifications (OLED display on top for future development)
 
 
